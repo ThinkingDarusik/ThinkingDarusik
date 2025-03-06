@@ -9,7 +9,7 @@ I'm an indie **game developer**, currently working alone. Check out my website [
 
 ### About me
 - 🔭 I’m currently working on my Steam game release
-- 💬 My strength is C++, Unreal Engie. I can use C, CPP, Python, Javascript, HTML/CSS, and more
+- 💬 My strength is **C++, Unreal Engie. I can use C, CPP, Python, Javascript, HTML/CSS**, and more
 - I am bilingual English/Korean and also learning Japanese.
 - 🌱 I’m currently studying open source AI
 - 👯 I’m looking to collaborate on games made with cpp / Unreal Engine
