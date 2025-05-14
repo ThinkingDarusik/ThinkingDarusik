@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there, I'm an Indie Game Developer</h1>
 
-I'm an indie **game developer**, currently working alone. Check out my website [https://ThinkingDarusik.com](https://ThinkingDarusik.com) to take a look at my projects :)
+<p align="center">
+  🎮 Solo dev • Unreal Engine enthusiast • Code + creativity = fun
+</p>
 
-### Contacts
-- [Email](mailto:alex01763:gmail.com)
-- [website](https://ThinkingDarusik.com)
-- [youtube](https://youtube.com/@thinkingdarusik)
+---
 
-### About me
-- 🔭 I’m currently working on my Steam game release
-- 💬 My strength is **C++, Unreal Engie. I can use C, CPP, Python, Javascript, HTML/CSS**, and more
-- I am bilingual English/Korean and also learning Japanese.
-- 🌱 I’m currently studying open source AI
-- 👯 I’m looking to collaborate on games made with cpp / Unreal Engine
-- I also play a guitar and a harmonica.
+## 🔗 Connect with Me
+
+- 📧 [Email me](mailto:example@gmail.com)
+- 🌐 [Website](https://example.com)
+- 📺 [YouTube](https://youtube.com/@example)
+
+---
+
+## 🧠 About Me
+
+- 🔨 Currently working on my **Steam game release**
+- 💡 Strong in **C++** & **Unreal Engine**
+- 💻 Also experienced with:
+  `C`, `Python`, `UE Blueprints`, `C#`, `Docker`, `Linux`, `JavaScript`, `HTML/CSS` and more
+- 🌐 Bilingual: **English/Korean**, learning **Japanese**
+- 🧪 Studying **open-source AI tools**
+- 🖥️ **Linux enthusiast**
+- 🤝 Open to collaboration on **C++ / Unreal Engine** projects
+- 🎸 I also play **guitar and harmonica**
+
+---
+
+## 📂 Projects
+
+Here are a few things I’m working on or have built:
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🌐 **[Homepage](https://ThinkingDarusik.com/)** | My homepage with projects and updates | Hugo, Markdown, Self-hosting |
+| 🎮 **[Like Birds](https://store.steampowered.com/app/2520370/Like_Birds/)** | A first person shooter preparing to launch on Steam | C++, Unreal Engine |
+| 🧠 **[AI Projects](https://thinkingdarusik.com/tags/ai/)** | Open-source AI integrated to Unreal Engine projects | Python, ML frameworks, C++, Unreal Engine |
+
+---
+
+## 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+> ⚡ *“Thanks for visiting! Let's build something awesome.”*
