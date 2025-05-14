@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm an Indie Game Developer</h1>
 
 <p align="center">
-  🎮 Solo dev • Unreal Engine enthusiast
+  🎮 Solo dev • Unreal Engine / C++ enthusiast
 </p>
 
 ---
