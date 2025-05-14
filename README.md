@@ -8,9 +8,9 @@
 
 ## 🔗 Connect with Me
 
-- 📧 [Email me](mailto:example@gmail.com)
-- 🌐 [Website](https://example.com)
-- 📺 [YouTube](https://youtube.com/@example)
+- 📧 [Email me](mailto:alex01763@gmail.com)
+- 🌐 [Website](https://ThinkingDarusik.com)
+- 📺 [YouTube](https://youtube.com/@thinkingdarusik)
 
 ---
 
