@@ -9,7 +9,7 @@
 ## 🔗 Connect with Me
 
 - 📧 [Email me](mailto:alex01763@gmail.com)
-- 🌐 [Website](https://ThinkingDarusik.com)
+- 🌐 [Website](https://lastsevenbasils.com)
 - 📺 [YouTube](https://youtube.com/@thinkingdarusik)
 
 ---
@@ -34,9 +34,9 @@ Here are a few things I’m working on or have built:
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🌐 **[Homepage](https://ThinkingDarusik.com/)** | My homepage with projects and updates | Hugo, Markdown, Self-hosting |
+| 🌐 **[Homepage](https://lastsevenbasils.com/)** | My homepage with projects and updates | Hugo, Markdown, Self-hosting |
 | 🎮 **[Like Birds](https://store.steampowered.com/app/2520370/Like_Birds/)** | A first person shooter preparing to launch on Steam | C++, Unreal Engine |
-| 🧠 **[AI Projects](https://thinkingdarusik.com/tags/ai/)** | Open-source AI integrated to Unreal Engine projects | Python, ML frameworks, C++, Unreal Engine |
+| 🧠 **[AI Projects](https://lastsevenbasils.com/tags/ai/)** | Open-source AI integrated to Unreal Engine projects | Python, ML frameworks, C++, Unreal Engine |
 
 ---
 
