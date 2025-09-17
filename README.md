@@ -1,46 +1,46 @@
-<h1 align="center">👋 Hi there, I'm an Indie Game Developer</h1>
+<h1 align="center">Hi there, I'm an Indie Game Developer</h1>
 
 <p align="center">
-  🎮 Solo dev • Unreal Engine / C++ enthusiast
+  Solo dev • Unreal Engine / C++ enthusiast
 </p>
 
 ---
 
 ## 🔗 Connect with Me
 
-- 📧 [Email me](mailto:alex01763@gmail.com)
-- 🌐 [Website](https://lastsevenbasils.com)
-- 📺 [YouTube](https://youtube.com/@thinkingdarusik)
+- [Email me](mailto:alex01763@gmail.com)
+- [Website](https://lastsevenbasils.com)
+- [YouTube](https://youtube.com/@thinkingdarusik)
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🔨 Currently working on my **Steam game release**
-- 💡 Strong in **C++** & **Unreal Engine**
-- 💻 Also experienced with:
+- Currently working on my **Steam game release**
+- Strong in **C++** & **Unreal Engine**
+- Also experienced with:
   `C`, `Python`, `UE Blueprints`, `C#`, `Docker`, `Linux`, `JavaScript`, `HTML/CSS` and more
-- 🌐 Bilingual: **English/Korean**, learning **Japanese**
-- 🧪 Studying **open-source AI tools**
-- 🖥️ **Linux enthusiast**
-- 🤝 Open to collaboration on **C++ / Unreal Engine** projects
-- 🎸 I also play **guitar and harmonica**
+- Bilingual: **English/Korean**, learning **Japanese**
+- Studying **open-source AI tools**
+- **Linux enthusiast**
+- Open to collaboration on **C++ / Unreal Engine** projects
+- I also play **guitar and harmonica**
 
 ---
 
-## 📂 Projects
+## Projects
 
 Here are a few things I’m working on or have built:
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🌐 **[Homepage](https://lastsevenbasils.com/)** | My homepage with projects and updates | Hugo, Markdown, Self-hosting |
-| 🎮 **[Like Birds](https://store.steampowered.com/app/2520370/Like_Birds/)** | A first person shooter preparing to launch on Steam | C++, Unreal Engine |
-| 🧠 **[AI Projects](https://lastsevenbasils.com/tags/ai/)** | Open-source AI integrated to Unreal Engine projects | Python, ML frameworks, C++, Unreal Engine |
+| **[Homepage](https://lastsevenbasils.com/)** | My homepage with projects and updates | Hugo, Markdown, Self-hosting |
+| **[Like Birds](https://store.steampowered.com/app/2520370/Like_Birds/)** | A first person shooter preparing to launch on Steam | C++, Unreal Engine |
+| **[AI Projects](https://lastsevenbasils.com/tags/ai/)** | Open-source AI integrated to Unreal Engine projects | Python, ML frameworks, C++, Unreal Engine |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine)
@@ -55,5 +55,3 @@ Here are a few things I’m working on or have built:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-
-> ⚡ *“Thanks for visiting! Let's build something awesome.”*
