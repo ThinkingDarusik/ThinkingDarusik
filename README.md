@@ -6,7 +6,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 - [Email me](mailto:alex01763@gmail.com)
 - [Website](https://lastsevenbasils.com)
